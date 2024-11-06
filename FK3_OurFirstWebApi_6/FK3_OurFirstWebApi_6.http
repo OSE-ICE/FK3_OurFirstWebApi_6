@@ -1,0 +1,6 @@
+@FK3_OurFirstWebApi_6_HostAddress = http://localhost:5275
+
+GET {{FK3_OurFirstWebApi_6_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
